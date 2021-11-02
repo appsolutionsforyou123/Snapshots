@@ -23,6 +23,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun setupBottonNav()
     {
+        //subiendo cambios con control de versiones: 2 oct 2021...
+
         val mFragmentManager = supportFragmentManager
 
         val homeFragment = HomeFragment()  //fragmento Home
